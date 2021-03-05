@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "# #",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "sh1currency:silver_coin"
+    }
+  },
+  "result": {
+    "item": "sh1currency:gold_coin",
+    "count": 1
+  }
+}
